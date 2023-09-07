@@ -5,12 +5,12 @@
 
 return array (
   //============================== New strings to translate ==============================//
-  'affiliate_name' => 'Affiliate Name',
-  'affiliate_tracking' => 'Affiliate Tracking',
-  'affiliate_tracking_text' => 'Keeping track of who is generating sales for your event is extremely easy. Simply create a referral link using the box below and share the link with your affiliates / event promoters.',
-  'last_referral' => 'Last Referral',
-  'no_affiliate_referrals_yet' => 'No Affiliate Referrals Yet',
-  'sales_volume_generated' => 'Sales Volume Generated',
-  'ticket_sales_generated' => 'Ticket Sales Generated',
-  'visits_generated' => 'Visits Generated',
+  'affiliate_name' => 'Promoottorin nimi',
+  'affiliate_tracking' => 'Promoottorin seuranta',
+  'affiliate_tracking_text' => 'Seuranta on törkeän helppoa! Luo refe-linkki ja jaa se promoottorille.',
+  'last_referral' => 'Viimeisin refe',
+  'no_affiliate_referrals_yet' => 'Ei vielä refejä',
+  'sales_volume_generated' => 'Myyntivolyymia luotu',
+  'ticket_sales_generated' => 'Lippumyyntiä luotu',
+  'visits_generated' => 'Vierailuja luotu',
 );
